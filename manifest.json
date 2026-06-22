@@ -1,0 +1,7 @@
+{
+  "build": 1,
+  "version": "1.0.4",
+  "url": "",
+  "mandatory": false,
+  "notes": "baseline (shipped in the APK) — no OTA published yet"
+}
