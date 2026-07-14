@@ -1,8 +1,8 @@
 {
-  "build": 11,
-  "version": "1.11.9",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v11/7kilo-bundle-11.zip",
+  "build": 12,
+  "version": "1.11.10",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v12/7kilo-bundle-12.zip",
   "mandatory": false,
-  "notes": "Fixed shop double-charging on touch (buy buttons were firing twice mid-scroll); thrown spear now connects on dead-aim throws at range against enemies (was dropping short past ~13m)",
-  "checksum": "52f38d2484499f4e3c71f38b7a998fd503c440c8cec23350b33896ae64a9b5dc"
+  "notes": "PERF: device tier — phones with a weak/no GPU (software renderer) now drop real-time shadows + resolution + bloom so they RUN; and the quality governor now targets 60fps (was stuck below 27) so a device at 40fps auto-lowers resolution to recover",
+  "checksum": "a14b48c90333bf74fc7b348d036d2f94148efa20c2dbc6b49dbd9a9dcc4f43a1"
 }
