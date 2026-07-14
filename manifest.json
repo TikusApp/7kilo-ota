@@ -1,8 +1,8 @@
 {
-  "build": 10,
-  "version": "1.11.8",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v10/7kilo-bundle-10.zip",
+  "build": 11,
+  "version": "1.11.9",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v11/7kilo-bundle-11.zip",
   "mandatory": false,
-  "notes": "Home no longer shoves the save menu in your face on entry; Entoto overlook lifted so the golden Addis panorama lands at eye level (day + night); nightclub day facade fixed (was a black void)",
-  "checksum": "dbbf2dfff9b78f71fe5a6a9d676f06656ee1f5489a5792a6056ce8fa6428b24b"
+  "notes": "Fixed shop double-charging on touch (buy buttons were firing twice mid-scroll); thrown spear now connects on dead-aim throws at range against enemies (was dropping short past ~13m)",
+  "checksum": "52f38d2484499f4e3c71f38b7a998fd503c440c8cec23350b33896ae64a9b5dc"
 }
