@@ -1,8 +1,8 @@
 {
-  "build": 2,
-  "version": "1.11.0",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v2/7kilo-bundle-2.zip",
+  "build": 3,
+  "version": "1.11.1",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v3/7kilo-bundle-3.zip",
   "mandatory": false,
-  "notes": "Full sound: Merkato ambient + per-vehicle horns + real engine + crash/screech + GTA car radio. Survival on bust + revive i-frames. Weapon-button + cop-cutscene-freeze fixes. Graphics polish + intro overhaul.",
-  "checksum": "06e808d727a394dd5340e1281cfa71ebe146c2a4daedf5ccb7eb8a8ef142cfa2"
+  "notes": "Cartoon corner gone: Federal Police forecourt, park lawn/lake, wilderness rocks, biz planters all photoreal (Gemini). Perf: front-load region uploads, kills the ~1s park freeze.",
+  "checksum": "209c2a49a58f249115701d2ef15843edfed7a1f9e78d1a6e1ff740e58333c9dc"
 }
