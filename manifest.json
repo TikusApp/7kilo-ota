@@ -1,8 +1,8 @@
 {
-  "build": 7,
-  "version": "1.11.5",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v7/7kilo-bundle-7.zip",
+  "build": 8,
+  "version": "1.11.6",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v8/7kilo-bundle-8.zip",
   "mandatory": false,
-  "notes": "Wilderness car wrecks now read as rusted gutted hulks (were flat maroon boxes); fixed park palms rendering as solid slabs",
-  "checksum": "d85d04a18834b2bd3290f51a3600e167aaa9ad31e1e9fa2831fe1c9d20774c61"
+  "notes": "Pedestrians no longer foot-slide/moonwalk (stride cadence now matches ground speed); park mission drops land on solid lawn instead of on the pond",
+  "checksum": "ea6589c882d4ab867c0d8877cfff84ffaf231ec323dc881652ccc66ac3478ca8"
 }
