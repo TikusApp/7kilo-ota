@@ -1,8 +1,8 @@
 {
-  "build": 6,
-  "version": "1.11.4",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v6/7kilo-bundle-6.zip",
+  "build": 7,
+  "version": "1.11.5",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v7/7kilo-bundle-7.zip",
   "mandatory": false,
-  "notes": "Meskel Square now lit at night (was a black-void floor); chase camera no longer clips inside buildings when the car backs against a wall",
-  "checksum": "87757b8b9d58e5ccd4e4188fe2c4c8f35b6b0ee275d389ef410ba17b9c000b95"
+  "notes": "Wilderness car wrecks now read as rusted gutted hulks (were flat maroon boxes); fixed park palms rendering as solid slabs",
+  "checksum": "d85d04a18834b2bd3290f51a3600e167aaa9ad31e1e9fa2831fe1c9d20774c61"
 }
