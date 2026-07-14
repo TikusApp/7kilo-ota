@@ -1,8 +1,8 @@
 {
-  "build": 16,
-  "version": "1.11.14",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v16/7kilo-bundle-16.zip",
+  "build": 17,
+  "version": "1.11.15",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v17/7kilo-bundle-17.zip",
   "mandatory": false,
-  "notes": "PERF: the auto-quality governor now has a last resort — a device that still can't hold 60fps at the lowest resolution drops the sun shadow too (keeping blob shadows), adaptively per device. Helps weak Androids the static tier missed.",
-  "checksum": "c58e7653b2d748d81dc787793daf625822787533557b99c2bbe8e0b3cfb553d9"
+  "notes": "Ethiopian Airlines jets now descend over the city on approach (the iconic Addis Bole sight); health bar hides on the peaceful Entoto forest/mountain drive. (Bole Airport itself is being built next.)",
+  "checksum": "6f707fa032b8a74916c300620d319e5e48606c275d5cd912dbceab4c0c44f302"
 }
