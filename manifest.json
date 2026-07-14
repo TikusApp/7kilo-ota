@@ -1,8 +1,8 @@
 {
-  "build": 14,
-  "version": "1.11.12",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v14/7kilo-bundle-14.zip",
+  "build": 15,
+  "version": "1.11.13",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v15/7kilo-bundle-15.zip",
   "mandatory": false,
-  "notes": "Fixed the stuck spawn cars (first cars were nosed into buildings / buried under market umbrellas — now clean + drivable); killed the horn-spam (no more beeping the instant you enter a car, no phantom honks at Entoto, quieter + rate-limited)",
-  "checksum": "a1b7109589baf40c208e0480dc18513159a1a6c0bef1d9ec576fc09ca513d53d"
+  "notes": "PERF: cars now render only where the camera can see them (parked + traffic fleets were drawing ~180k triangles from every viewpoint, even 500m away). Big vertex-load cut on weak phones (park -51%, city -18-20% triangles) with zero visual change or draw-call increase.",
+  "checksum": "8ff3d615f8de60f9bdc407f7143d740823921444193f8aa9b9f42962b81265ba"
 }
