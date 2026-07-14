@@ -1,7 +1,8 @@
 {
-  "build": 1,
-  "version": "1.0.4",
-  "url": "",
+  "build": 2,
+  "version": "1.11.0",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v2/7kilo-bundle-2.zip",
   "mandatory": false,
-  "notes": "baseline (shipped in the APK) — no OTA published yet"
+  "notes": "Full sound: Merkato ambient + per-vehicle horns + real engine + crash/screech + GTA car radio. Survival on bust + revive i-frames. Weapon-button + cop-cutscene-freeze fixes. Graphics polish + intro overhaul.",
+  "checksum": "06e808d727a394dd5340e1281cfa71ebe146c2a4daedf5ccb7eb8a8ef142cfa2"
 }
