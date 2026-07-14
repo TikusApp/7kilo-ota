@@ -1,8 +1,8 @@
 {
-  "build": 5,
-  "version": "1.11.3",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v5/7kilo-bundle-5.zip",
+  "build": 6,
+  "version": "1.11.4",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v6/7kilo-bundle-6.zip",
   "mandatory": false,
-  "notes": "Civic panorama: cartoon green/checkered fill-towers now realistic charcoal glass; LRT station stairs de-yellowed to concrete; south-flats oil drums de-cloned (per-drum rust/size + crushed rejects).",
-  "checksum": "016fd3ef46d00dd45474ca126c6d577c4a60da5f8520874291b08f18513d3957"
+  "notes": "Meskel Square now lit at night (was a black-void floor); chase camera no longer clips inside buildings when the car backs against a wall",
+  "checksum": "87757b8b9d58e5ccd4e4188fe2c4c8f35b6b0ee275d389ef410ba17b9c000b95"
 }
