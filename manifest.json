@@ -1,8 +1,8 @@
 {
-  "build": 4,
-  "version": "1.11.2",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v4/7kilo-bundle-4.zip",
+  "build": 5,
+  "version": "1.11.3",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v5/7kilo-bundle-5.zip",
   "mandatory": false,
-  "notes": "Concrete megastructures (LRT viaduct/walls) now real cast-concrete not sidewalk-grid; parked-car side windows now tinted glass not black dither; app-promo ad watermark removed; weathered station-teal canopy.",
-  "checksum": "ecdd3ca75c45cefc92344faf8284fe5ce840bd3570b9de1864ce2b0b248ab1f7"
+  "notes": "Civic panorama: cartoon green/checkered fill-towers now realistic charcoal glass; LRT station stairs de-yellowed to concrete; south-flats oil drums de-cloned (per-drum rust/size + crushed rejects).",
+  "checksum": "016fd3ef46d00dd45474ca126c6d577c4a60da5f8520874291b08f18513d3957"
 }
