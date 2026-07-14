@@ -1,8 +1,8 @@
 {
-  "build": 8,
-  "version": "1.11.6",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v8/7kilo-bundle-8.zip",
+  "build": 9,
+  "version": "1.11.7",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v9/7kilo-bundle-9.zip",
   "mandatory": false,
-  "notes": "Pedestrians no longer foot-slide/moonwalk (stride cadence now matches ground speed); park mission drops land on solid lawn instead of on the pond",
-  "checksum": "ea6589c882d4ab867c0d8877cfff84ffaf231ec323dc881652ccc66ac3478ca8"
+  "notes": "Addis LRT viaduct rebuilt as a massive concrete box-girder on stout hammerhead piers (was a thin slab on skinny posts)",
+  "checksum": "8594c8802af7c3ceb703937532e357aa8c9133ab78707ba8c0adec795e28f881"
 }
