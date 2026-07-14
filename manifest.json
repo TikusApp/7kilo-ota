@@ -1,8 +1,8 @@
 {
-  "build": 19,
-  "version": "1.11.17",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v19/7kilo-bundle-19.zip",
+  "build": 20,
+  "version": "1.11.18",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v20/7kilo-bundle-20.zip",
   "mandatory": false,
-  "notes": "Multiplayer BETA is here — join a friend's session with an invite code (menu → Multiplayer); other players drive around Addis with you. NEW cinematic opening: land at Bole Airport, take a car, drive the scenic Entoto descent into the city. Entoto forest cleaned up — realistic junipers (no more glow), no wires over the road, solid 3D hills, guided road with 'coming soon' boundaries. Mission arrows now paint the path on the actual road for every mission. U-turn added past the mosque.",
-  "checksum": "804e524552aeb384ca29a93bcc2df8bcd8d268ee26711ce28ff6508c9f29ea6b"
+  "notes": "New music! 7 fresh tracks in the radio incl. the '7 ኪሎ' anthem which now opens your session. Restored the classic city-montage opening (the Bole airport arrival is now a separate story cutscene). Hidden forest treasures up Entoto — find the 10× key jackpot by the observatory, plus health, birr and a letter. Polished mission guidance.",
+  "checksum": "c9fd31b788c938022701dbab44e069eb14b29ffeef9c4d4c0bc96612fa584bd8"
 }
