@@ -1,8 +1,8 @@
 {
-  "build": 15,
-  "version": "1.11.13",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v15/7kilo-bundle-15.zip",
+  "build": 16,
+  "version": "1.11.14",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v16/7kilo-bundle-16.zip",
   "mandatory": false,
-  "notes": "PERF: cars now render only where the camera can see them (parked + traffic fleets were drawing ~180k triangles from every viewpoint, even 500m away). Big vertex-load cut on weak phones (park -51%, city -18-20% triangles) with zero visual change or draw-call increase.",
-  "checksum": "8ff3d615f8de60f9bdc407f7143d740823921444193f8aa9b9f42962b81265ba"
+  "notes": "PERF: the auto-quality governor now has a last resort — a device that still can't hold 60fps at the lowest resolution drops the sun shadow too (keeping blob shadows), adaptively per device. Helps weak Androids the static tier missed.",
+  "checksum": "c58e7653b2d748d81dc787793daf625822787533557b99c2bbe8e0b3cfb553d9"
 }
