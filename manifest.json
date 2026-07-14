@@ -1,8 +1,8 @@
 {
-  "build": 18,
-  "version": "1.11.16",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v18/7kilo-bundle-18.zip",
+  "build": 19,
+  "version": "1.11.17",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v19/7kilo-bundle-19.zip",
   "mandatory": false,
-  "notes": "Real 3D Ethiopian planes (parked fleet + a descending jet over the city) replacing the flat billboards; Bole airport road unblocked + the forest opened up with drive-off openings; airport ringed by hazy Entoto mountains (no more grey walls); Amharic fixes — Gish 'get a car' + house-save; New Game now offers to skip the opening once you've seen it.",
-  "checksum": "357f5f20d0cad8c466b6e1828a1059f71d6aef263a4818a23e7a2f7d92692897"
+  "notes": "Multiplayer BETA is here — join a friend's session with an invite code (menu → Multiplayer); other players drive around Addis with you. NEW cinematic opening: land at Bole Airport, take a car, drive the scenic Entoto descent into the city. Entoto forest cleaned up — realistic junipers (no more glow), no wires over the road, solid 3D hills, guided road with 'coming soon' boundaries. Mission arrows now paint the path on the actual road for every mission. U-turn added past the mosque.",
+  "checksum": "804e524552aeb384ca29a93bcc2df8bcd8d268ee26711ce28ff6508c9f29ea6b"
 }
