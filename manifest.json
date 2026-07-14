@@ -1,8 +1,8 @@
 {
-  "build": 9,
-  "version": "1.11.7",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v9/7kilo-bundle-9.zip",
+  "build": 10,
+  "version": "1.11.8",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v10/7kilo-bundle-10.zip",
   "mandatory": false,
-  "notes": "Addis LRT viaduct rebuilt as a massive concrete box-girder on stout hammerhead piers (was a thin slab on skinny posts)",
-  "checksum": "8594c8802af7c3ceb703937532e357aa8c9133ab78707ba8c0adec795e28f881"
+  "notes": "Home no longer shoves the save menu in your face on entry; Entoto overlook lifted so the golden Addis panorama lands at eye level (day + night); nightclub day facade fixed (was a black void)",
+  "checksum": "dbbf2dfff9b78f71fe5a6a9d676f06656ee1f5489a5792a6056ce8fa6428b24b"
 }
