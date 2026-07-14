@@ -1,8 +1,8 @@
 {
-  "build": 12,
-  "version": "1.11.10",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v12/7kilo-bundle-12.zip",
+  "build": 13,
+  "version": "1.11.11",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v13/7kilo-bundle-13.zip",
   "mandatory": false,
-  "notes": "PERF: device tier — phones with a weak/no GPU (software renderer) now drop real-time shadows + resolution + bloom so they RUN; and the quality governor now targets 60fps (was stuck below 27) so a device at 40fps auto-lowers resolution to recover",
-  "checksum": "a14b48c90333bf74fc7b348d036d2f94148efa20c2dbc6b49dbd9a9dcc4f43a1"
+  "notes": "PERF: weak/no-GPU devices cap textures harder (384px, ~44% less VRAM → less 'gets stuck') and drop the FXAA pass — completes the low-tier scaling so struggling phones load + run. Capable devices unchanged.",
+  "checksum": "daf89e35d7a34a7c53860d2f647d0ab069baef894c49f55ce76b15bed7c912ba"
 }
