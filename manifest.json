@@ -1,8 +1,8 @@
 {
-  "build": 20,
-  "version": "1.11.18",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v20/7kilo-bundle-20.zip",
+  "build": 21,
+  "version": "1.12.2",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v21/7kilo-bundle-21.zip",
   "mandatory": false,
-  "notes": "New music! 7 fresh tracks in the radio incl. the '7 ኪሎ' anthem which now opens your session. Restored the classic city-montage opening (the Bole airport arrival is now a separate story cutscene). Hidden forest treasures up Entoto — find the 10× key jackpot by the observatory, plus health, birr and a letter. Polished mission guidance.",
-  "checksum": "c9fd31b788c938022701dbab44e069eb14b29ffeef9c4d4c0bc96612fa584bd8"
+  "notes": "9 real 3D cars now fill the streets — white Corolla, Land Cruiser, blue Isuzu truck join the Lada, Vitz, Hilux, bus & bajaj. Cutscene cars are real 3D too. Smarter enemies + hit-reactions in a fight. Smoother performance. Menu boot fix.",
+  "checksum": "0aec98de5a5713a2046d73a58613a9890767656b05344e317257e4fd8c565a2e"
 }
