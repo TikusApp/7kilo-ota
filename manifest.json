@@ -1,8 +1,8 @@
 {
-  "build": 23,
-  "version": "1.13.1",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v23/7kilo-bundle-23.zip",
+  "build": 24,
+  "version": "1.13.2",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v24/7kilo-bundle-24.zip",
   "mandatory": false,
-  "notes": "New static cinematic menu, clear loading and retry feedback, and music stops when gameplay begins on foot. Includes the mobile performance overhaul: streamed regions, lighter phone assets, faster local collision queries and safer radio downloads. Offline radar image removes a heavy startup render. Smaller update download; Ethiopian characters, streets and artwork preserved.",
-  "checksum": "ade3e8062870e97d70b4f145d3e3d52d658e77dd9897b753fb15e4100ce1d846"
+  "notes": "Grounded trees across the expanded city and Entoto; corrected foliage and distant skyline placement. Includes accumulated cutscene shader preparation, cleaner mobile presentation, steadier adaptive clarity, radio shuffle, garage batching and hillside road fixes. Clear update status and a Restart game action with retry/recovery feedback. Original Ethiopian artwork preserved.",
+  "checksum": "6c411feb3e6cf333bcb59278b970753e894be31492bbb14f18844b9ff04f80b4"
 }

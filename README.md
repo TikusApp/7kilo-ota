@@ -1,6 +1,6 @@
 # 7ኪሎ — OTA & streamed-asset host
 
-Public host for the **7ኪሎ** Android app. Public because the app fetches from it over plain HTTP with no auth
+Public host for the **7ኪሎ** Android app. Public because the app fetches from it over HTTPS with no auth
 (raw.githubusercontent + release-asset CDN both send permissive CORS, and GitHub serving is unmetered — kind
 to low-data users). It holds:
 
@@ -24,6 +24,15 @@ source, which stays private in `TikusApp/7kilo` (game) and `TikusApp/7kiloAndroi
 }
 ```
 
-**Published automatically by `7kiloAndroid/ota-release.mjs` — don't edit by hand.** The `music-v1` release is
+**Current release practice (October 2026):** build and verify an immutable package, publish that exact
+ZIP to a new release, verify its public SHA-256 and byte count, then activate `manifest.json` last.
+OTA 24 / 1.13.2 is an optional (`mandatory:false`) web update. A published manifest means available,
+not installed on every phone. Native shell/Play releases are separate. Never overwrite an old release
+asset; a rollback to known-good content needs a higher build number.
+
+The legacy `7kiloAndroid/ota-release.mjs` rebuilds and mutates source even during `--dry-run`; do not
+use it to republish a package already accepted by QA. See the game
+[OTA runbook](https://github.com/TikusApp/7kilo/blob/main/docs/SHIP_AND_OTA.md).
+The `music-v1` release is
 published once via `gh release create` (the game repo's `tools/music-split.mjs` prepares the slugged tracks).
 See the [7kiloAndroid README](https://github.com/TikusApp/7kiloAndroid) for the full OTA architecture.
