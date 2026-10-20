@@ -1,8 +1,8 @@
 {
-  "build": 24,
-  "version": "1.13.2",
-  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v24/7kilo-bundle-24.zip",
+  "build": 25,
+  "version": "1.13.3",
+  "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v25/7kilo-bundle-25.zip",
   "mandatory": false,
-  "notes": "Grounded trees across the expanded city and Entoto; corrected foliage and distant skyline placement. Includes accumulated cutscene shader preparation, cleaner mobile presentation, steadier adaptive clarity, radio shuffle, garage batching and hillside road fixes. Clear update status and a Restart game action with retry/recovery feedback. Original Ethiopian artwork preserved.",
-  "checksum": "6c411feb3e6cf333bcb59278b970753e894be31492bbb14f18844b9ff04f80b4"
+  "notes": "Improved mobile controls and compact menus, saved inventory restoration, mission pickups and cinematic protection. Corrected the raised walkway near the hospital and provided a clearer hospital exit. Includes asset-loading and vehicle presentation fixes while preserving Ethiopian artwork.",
+  "checksum": "a6e176e6a72b131d257a3793a0187ad1011e98811f8e547a765924e154b4d236"
 }
