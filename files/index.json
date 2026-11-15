@@ -1,6 +1,42 @@
 {
   "version": 1,
   "objects": {
+    "02498ef124ca9b59efc318132e01428d8f4aadddf9a0b045a36d50f57f3c451c": {
+      "size": 13521,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/02498ef124ca9b59efc318132e01428d8f4aadddf9a0b045a36d50f57f3c451c"
+    },
+    "1d88c7e192bd2cd2981a0f75791baf36bd180a63480eea6897a9047922701df7": {
+      "size": 3026110,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/1d88c7e192bd2cd2981a0f75791baf36bd180a63480eea6897a9047922701df7"
+    },
+    "36cd60230c4f5be8b7c63dd0be298f21401b3aefab7269add7bdde351fb5f789": {
+      "size": 12856,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/36cd60230c4f5be8b7c63dd0be298f21401b3aefab7269add7bdde351fb5f789"
+    },
+    "3ca72c07bcb6fc86262a73193ebd8d4a70d22ad03c235ca765af5a12be64f653": {
+      "size": 6317,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/3ca72c07bcb6fc86262a73193ebd8d4a70d22ad03c235ca765af5a12be64f653"
+    },
+    "3cf3f8a3f7b27b47e334fa235725878bbbabafb2c79ae2e517cbbc07a18ca794": {
+      "size": 194922,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/3cf3f8a3f7b27b47e334fa235725878bbbabafb2c79ae2e517cbbc07a18ca794"
+    },
+    "754bbc146e7f684c86c3e730a4f56e70c41f7ecb4c1a74d0b1531ac93ef8f60b": {
+      "size": 64749,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/754bbc146e7f684c86c3e730a4f56e70c41f7ecb4c1a74d0b1531ac93ef8f60b"
+    },
+    "8f05cf3db715ce2ffce361512261400ce369d03d7df57bb801f4c51e058470ee": {
+      "size": 37097,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/8f05cf3db715ce2ffce361512261400ce369d03d7df57bb801f4c51e058470ee"
+    },
+    "a52158d21adbfe3a0a5dea3e4dc91817b24d5e54c85300d8121cda4c3c34f5b1": {
+      "size": 11953,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/a52158d21adbfe3a0a5dea3e4dc91817b24d5e54c85300d8121cda4c3c34f5b1"
+    },
+    "d288697157a0d61adde405599c4bd4ae8a5aed5def2d0ac6e0e8feb7b736146e": {
+      "size": 490450,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/d288697157a0d61adde405599c4bd4ae8a5aed5def2d0ac6e0e8feb7b736146e"
+    },
     "0f02ea72cc94b068fb862096e1325beb242adcd9bfab4d1b3cb769892c06ac34": {
       "size": 6317,
       "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v30-files-001/0f02ea72cc94b068fb862096e1325beb242adcd9bfab4d1b3cb769892c06ac34"
@@ -3965,41 +4001,53 @@
       "size": 122075,
       "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v26-files-001/ff8de4c5405b3cb73fa3751ad66edd49101b7b5ed5ce56f431cbfc16eca8822a"
     },
-    "36cd60230c4f5be8b7c63dd0be298f21401b3aefab7269add7bdde351fb5f789": {
-      "size": 12856,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/36cd60230c4f5be8b7c63dd0be298f21401b3aefab7269add7bdde351fb5f789"
+    "8c253d7eaed7589227aae674cde3dd07c36029fa9ae7fe6cbea661b11f0970fd": {
+      "size": 12886,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/8c253d7eaed7589227aae674cde3dd07c36029fa9ae7fe6cbea661b11f0970fd"
     },
-    "02498ef124ca9b59efc318132e01428d8f4aadddf9a0b045a36d50f57f3c451c": {
-      "size": 13521,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/02498ef124ca9b59efc318132e01428d8f4aadddf9a0b045a36d50f57f3c451c"
+    "45887c6955dcaa535a7021450cdda868d45cd3bb709a6c3a45b132a1c41c4fb2": {
+      "size": 13516,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/45887c6955dcaa535a7021450cdda868d45cd3bb709a6c3a45b132a1c41c4fb2"
     },
-    "3ca72c07bcb6fc86262a73193ebd8d4a70d22ad03c235ca765af5a12be64f653": {
+    "c314b14bd3539e8be545181f8a95be4e09b536f0070f8db2f825c730c85c85b8": {
       "size": 6317,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/3ca72c07bcb6fc86262a73193ebd8d4a70d22ad03c235ca765af5a12be64f653"
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/c314b14bd3539e8be545181f8a95be4e09b536f0070f8db2f825c730c85c85b8"
     },
-    "3cf3f8a3f7b27b47e334fa235725878bbbabafb2c79ae2e517cbbc07a18ca794": {
-      "size": 194922,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/3cf3f8a3f7b27b47e334fa235725878bbbabafb2c79ae2e517cbbc07a18ca794"
+    "192d4cc22c7d3b712790d0cbf6a1daf8f869775626729f2912f7150a8451c0ba": {
+      "size": 7488,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/192d4cc22c7d3b712790d0cbf6a1daf8f869775626729f2912f7150a8451c0ba"
     },
-    "1d88c7e192bd2cd2981a0f75791baf36bd180a63480eea6897a9047922701df7": {
-      "size": 3026110,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/1d88c7e192bd2cd2981a0f75791baf36bd180a63480eea6897a9047922701df7"
+    "c13ded056d2ff8fcb1bfef0572a7ddf475d8e8bbd4ec3ad2f2339cdd3c58f00c": {
+      "size": 206538,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/c13ded056d2ff8fcb1bfef0572a7ddf475d8e8bbd4ec3ad2f2339cdd3c58f00c"
     },
-    "8f05cf3db715ce2ffce361512261400ce369d03d7df57bb801f4c51e058470ee": {
-      "size": 37097,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/8f05cf3db715ce2ffce361512261400ce369d03d7df57bb801f4c51e058470ee"
+    "d0bb6fd8ba2288f22d78ae9132d045351b057799baaded09d25fa60d9d03d67e": {
+      "size": 3029450,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/d0bb6fd8ba2288f22d78ae9132d045351b057799baaded09d25fa60d9d03d67e"
     },
-    "754bbc146e7f684c86c3e730a4f56e70c41f7ecb4c1a74d0b1531ac93ef8f60b": {
-      "size": 64749,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/754bbc146e7f684c86c3e730a4f56e70c41f7ecb4c1a74d0b1531ac93ef8f60b"
+    "183fbc48f00c2f3bc3644b82071aad0f615db31f3247366945ed5656d55f8e93": {
+      "size": 35756,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/183fbc48f00c2f3bc3644b82071aad0f615db31f3247366945ed5656d55f8e93"
     },
-    "a52158d21adbfe3a0a5dea3e4dc91817b24d5e54c85300d8121cda4c3c34f5b1": {
+    "c152175cae79d0fb38ce2ab48e8f265d723ff02fa7afe8aec019e68144964a62": {
+      "size": 519942,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/c152175cae79d0fb38ce2ab48e8f265d723ff02fa7afe8aec019e68144964a62"
+    },
+    "5b2d7632a128b196a38d57fb5bedf3d4d6e105a93e33f7c17558c011d4240348": {
+      "size": 88046,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/5b2d7632a128b196a38d57fb5bedf3d4d6e105a93e33f7c17558c011d4240348"
+    },
+    "c08330018df6d01633d4f9db2992d71300d41fa7948e2d956af091a5ef06586b": {
+      "size": 64743,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/c08330018df6d01633d4f9db2992d71300d41fa7948e2d956af091a5ef06586b"
+    },
+    "6bc313f840c0b1b66fb44ed06f8469045e4871ecc054843f7ee2d8303371ff8d": {
       "size": 11953,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/a52158d21adbfe3a0a5dea3e4dc91817b24d5e54c85300d8121cda4c3c34f5b1"
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/6bc313f840c0b1b66fb44ed06f8469045e4871ecc054843f7ee2d8303371ff8d"
     },
-    "d288697157a0d61adde405599c4bd4ae8a5aed5def2d0ac6e0e8feb7b736146e": {
-      "size": 490450,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v31-files-001/d288697157a0d61adde405599c4bd4ae8a5aed5def2d0ac6e0e8feb7b736146e"
+    "5bb376e47539d5ccf5833d98ee2118628e73313c7604ee581fec945ec0784c69": {
+      "size": 490448,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v26-files-001/5bb376e47539d5ccf5833d98ee2118628e73313c7604ee581fec945ec0784c69"
     }
   }
 }
