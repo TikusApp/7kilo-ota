@@ -1,8 +1,8 @@
 {
-  "build": 27,
-  "version": "1.15.0",
+  "build": 28,
+  "version": "1.16.0",
   "mandatory": false,
-  "notes": "Police car chases when your wanted level climbs; a new opening with the real arrival bus; smoother Merkato streets; new in-game dialogs; X (Twitter) link; multiplayer name tag fix; fixes.",
+  "notes": "More realistic police on foot (fewer, smarter, new uniforms); smarter police car chases; bigger minimap with size setting; compass points to your objective; aiming crosshair and jump animation; vehicle and building fixes; fixes.",
   "format": 2,
   "files": [
     {
@@ -18,22 +18,22 @@
       "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v26-files-001/8685fa899aaafbef35c382b2ca1c0c4c4e6e60d6b8a660d3ea12adbc0ffb8c9f"
     },
     {
-      "file_name": "assets/adreel-DZZZN0YT.js",
-      "file_hash": "58fc54e182efb20166a9dfcaaf565fbb1bacc1b345ae45932e04cfbc4100a28c",
+      "file_name": "assets/adreel-lMLWvP8J.js",
+      "file_hash": "24306d3269d1c901d5327fc8ec2b7a5c20fbe7ec31a225a0249e87320d91efd1",
       "size": 12886,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/58fc54e182efb20166a9dfcaaf565fbb1bacc1b345ae45932e04cfbc4100a28c"
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/24306d3269d1c901d5327fc8ec2b7a5c20fbe7ec31a225a0249e87320d91efd1"
     },
     {
-      "file_name": "assets/diagnostic-outbox-DNrfm6et.js",
-      "file_hash": "a0b29885c893701d065d090cc5243ae327d92d09212d5eaa2aa3d7c763615959",
+      "file_name": "assets/diagnostic-outbox-MY612ppn.js",
+      "file_hash": "2db1ec969c5f0e4712849a5f8e84196306f83b0138e7940d003265303fd8fec0",
       "size": 13516,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/a0b29885c893701d065d090cc5243ae327d92d09212d5eaa2aa3d7c763615959"
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/2db1ec969c5f0e4712849a5f8e84196306f83b0138e7940d003265303fd8fec0"
     },
     {
-      "file_name": "assets/diagnostic-panel-B3sgsck5.js",
-      "file_hash": "20ce7126d885999703b5b1fdf62c060a10837e9af46b78050780cdfccd45e73e",
+      "file_name": "assets/diagnostic-panel-BqMNsE_l.js",
+      "file_hash": "19025b996b385ff37e66e9452ca4b588017b3c3b0f4b5798b8ade3593fb4a291",
       "size": 6312,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/20ce7126d885999703b5b1fdf62c060a10837e9af46b78050780cdfccd45e73e"
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/19025b996b385ff37e66e9452ca4b588017b3c3b0f4b5798b8ade3593fb4a291"
     },
     {
       "file_name": "assets/diagnostic-store-WCd5VtDK.js",
@@ -42,16 +42,16 @@
       "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v26-files-001/6e7d26c2b9615a4fa74683990d71cd3b27ce30cfd8e9d64e51cb1932ac2a8b8c"
     },
     {
-      "file_name": "assets/firebase-DvqsU7bQ.js",
-      "file_hash": "23d1ff18ae2a4a6ce2fd9e6f701c655bcfdae91e756aa050b3704b607dd77df8",
+      "file_name": "assets/firebase-0vjsXB4R.js",
+      "file_hash": "6a2e7f54fae44fee017dd351b1cecfc3b95b134604dde081054df656e3aa9801",
       "size": 7488,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/23d1ff18ae2a4a6ce2fd9e6f701c655bcfdae91e756aa050b3704b607dd77df8"
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/6a2e7f54fae44fee017dd351b1cecfc3b95b134604dde081054df656e3aa9801"
     },
     {
-      "file_name": "assets/index-6bOF2Uuc.js",
-      "file_hash": "5cfd8deb2cbc5966063215656a8bdb617bffb1189cfe0f4520c53c0ab3bcd7fd",
-      "size": 218593,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/5cfd8deb2cbc5966063215656a8bdb617bffb1189cfe0f4520c53c0ab3bcd7fd"
+      "file_name": "assets/index-BHzfcx1h.js",
+      "file_hash": "67ddab60e155deea8005d1e1f8ff4e0e66c1cf6c14c65897a473f466873ad495",
+      "size": 220188,
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/67ddab60e155deea8005d1e1f8ff4e0e66c1cf6c14c65897a473f466873ad495"
     },
     {
       "file_name": "assets/ktxpilot-palm_a-uastc-D5F0lPLb.ktx2",
@@ -72,22 +72,22 @@
       "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v26-files-001/be037b16f52d065957d9a119fe4b983655e292524e99739375fa799fbb9c94be"
     },
     {
-      "file_name": "assets/main-Y1WDarQN.js",
-      "file_hash": "caae742ae1fa1afe2f34e0b89b56541a446eb551d5674978f606c5e39a6d5003",
-      "size": 3065727,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/caae742ae1fa1afe2f34e0b89b56541a446eb551d5674978f606c5e39a6d5003"
+      "file_name": "assets/main-P-G2AOIe.js",
+      "file_hash": "1742f3a9105457d4b2231652e2ea2a179cde5f845c0de0a59f0f85f30c1b8ab3",
+      "size": 3089016,
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/1742f3a9105457d4b2231652e2ea2a179cde5f845c0de0a59f0f85f30c1b8ab3"
     },
     {
-      "file_name": "assets/minimap-city-DZo7z6r0.png",
-      "file_hash": "3587ed82256464e19c76716eb2d96ab7b39818d6a032f5da68688c8ad6541bb9",
-      "size": 184269,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/3587ed82256464e19c76716eb2d96ab7b39818d6a032f5da68688c8ad6541bb9"
+      "file_name": "assets/minimap-city-B3teRiBg.png",
+      "file_hash": "2e2dde8eb554d5031fc7703584843132a9eeab0f1c2bfb6d87d343d01515deb5",
+      "size": 184312,
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/2e2dde8eb554d5031fc7703584843132a9eeab0f1c2bfb6d87d343d01515deb5"
     },
     {
-      "file_name": "assets/mp-enYvdDRL.js",
-      "file_hash": "68b298d7871c9126ed270ac4e5e35659959dd4c0436919d9cc633f79a2ff4c26",
+      "file_name": "assets/mp-BM8Uyn9A.js",
+      "file_hash": "a064b095e394e72b74b5352dadf16ed960be78f59554e91c51e5931827b293bb",
       "size": 35756,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/68b298d7871c9126ed270ac4e5e35659959dd4c0436919d9cc633f79a2ff4c26"
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/a064b095e394e72b74b5352dadf16ed960be78f59554e91c51e5931827b293bb"
     },
     {
       "file_name": "assets/opening-logo-Dcwuct6P.png",
@@ -1285,9 +1285,9 @@
     },
     {
       "file_name": "gen-baked/model-dependencies.json",
-      "file_hash": "3aaa11ad71bdc0ff3d95f9f74a6373d4b78c108b664ed8f6d1b3b2c08979c8d3",
-      "size": 65184,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/3aaa11ad71bdc0ff3d95f9f74a6373d4b78c108b664ed8f6d1b3b2c08979c8d3"
+      "file_hash": "6ef5d0d45453724800b15fe9f4d987b45d973e94bafadbc244c0fc0ea9a3641c",
+      "size": 65520,
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/6ef5d0d45453724800b15fe9f4d987b45d973e94bafadbc244c0fc0ea9a3641c"
     },
     {
       "file_name": "gen-baked/pedestrian-variants.json",
@@ -5155,9 +5155,9 @@
     },
     {
       "file_name": "index.html",
-      "file_hash": "e993b505b770fff8eae35e82acbcd29a2a97fd54c0e10dac3864e6060499c9e2",
+      "file_hash": "374425c316bc39692e08fca282a71df2c67ed4d2b18f51902f8c246f6a3719d4",
       "size": 11896,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/e993b505b770fff8eae35e82acbcd29a2a97fd54c0e10dac3864e6060499c9e2"
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/374425c316bc39692e08fca282a71df2c67ed4d2b18f51902f8c246f6a3719d4"
     },
     {
       "file_name": "loading/cut/bg_city.jpg",
@@ -5326,6 +5326,12 @@
       "file_hash": "68dc8bf2b47f335f2d02a73a8ce1148c82f032f4419232280c8cdb9704ecd31d",
       "size": 69752,
       "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v26-files-001/68dc8bf2b47f335f2d02a73a8ce1148c82f032f4419232280c8cdb9704ecd31d"
+    },
+    {
+      "file_name": "models/eth_male_jump_m.glb",
+      "file_hash": "c4b8446fb51ed7e6791e565fb8e660c1cbecfdad472bf1243413e6dff43c0bed",
+      "size": 45504,
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/c4b8446fb51ed7e6791e565fb8e660c1cbecfdad472bf1243413e6dff43c0bed"
     },
     {
       "file_name": "models/eth_male_m.glb",
@@ -5677,9 +5683,9 @@
     },
     {
       "file_name": "package-info.json",
-      "file_hash": "f90ec6359b9a6ca425696a4eadca7981595c1eb8492489d1dce3d10ecd5a3adc",
-      "size": 490818,
-      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v27-files-001/f90ec6359b9a6ca425696a4eadca7981595c1eb8492489d1dce3d10ecd5a3adc"
+      "file_hash": "01c5f53b8ebec1cf8c607201ef4f96d80a258767bca8e265c463b888917269d9",
+      "size": 490990,
+      "download_url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v28-files-001/01c5f53b8ebec1cf8c607201ef4f96d80a258767bca8e265c463b888917269d9"
     },
     {
       "file_name": "video/cine/M1_COLLAPSE.mp4",
