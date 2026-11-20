@@ -1,6 +1,54 @@
 {
   "version": 1,
   "objects": {
+    "220d0f53c0edf6edc04f28864f4ed6a7feef8fd81a76e55518916f0833a5a109": {
+      "size": 836808,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/220d0f53c0edf6edc04f28864f4ed6a7feef8fd81a76e55518916f0833a5a109"
+    },
+    "2586878375dc159f965b968469e8b441d156058f3f1004d39a2189e97f05ec0f": {
+      "size": 441154,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/2586878375dc159f965b968469e8b441d156058f3f1004d39a2189e97f05ec0f"
+    },
+    "3ab6f004f7c74aa8151c9d013a38776ce3e774c710ffba6876217a5780dc2e93": {
+      "size": 11888,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/3ab6f004f7c74aa8151c9d013a38776ce3e774c710ffba6876217a5780dc2e93"
+    },
+    "5d8c699b64bc8426c563aceff6c2f90371d33b96a5c91a026e44aa32e5fb9770": {
+      "size": 38267,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/5d8c699b64bc8426c563aceff6c2f90371d33b96a5c91a026e44aa32e5fb9770"
+    },
+    "6771a7cc905b1a3e7ba078dce5217aca746c8feb4e14ed89bbad875ab95c3671": {
+      "size": 68243,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/6771a7cc905b1a3e7ba078dce5217aca746c8feb4e14ed89bbad875ab95c3671"
+    },
+    "7d6c196e224efc26844e19078529ef3d5f504f671c6b4deeba415b968db11f39": {
+      "size": 7488,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/7d6c196e224efc26844e19078529ef3d5f504f671c6b4deeba415b968db11f39"
+    },
+    "7ea1eabba67890b03d8c5d891727f3cb65f63968faef0ba9153405e3bb0f4d82": {
+      "size": 237884,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/7ea1eabba67890b03d8c5d891727f3cb65f63968faef0ba9153405e3bb0f4d82"
+    },
+    "894644f9137f7a2293626505bc3d6d1f5179d4bb41b6bcdae0d76ae53d6c50f3": {
+      "size": 6312,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/894644f9137f7a2293626505bc3d6d1f5179d4bb41b6bcdae0d76ae53d6c50f3"
+    },
+    "a8fd811ece174ac383b881fac5782ef5349e63925f8c7f0211a3459d5502d9f3": {
+      "size": 12886,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/a8fd811ece174ac383b881fac5782ef5349e63925f8c7f0211a3459d5502d9f3"
+    },
+    "d7282b02b11d95adcc0e28eeecaf8f984f8c10235691c3f33ae050ef6e2e42fe": {
+      "size": 3254057,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/d7282b02b11d95adcc0e28eeecaf8f984f8c10235691c3f33ae050ef6e2e42fe"
+    },
+    "e57664566119065ab8b2b4f6e78dbf58e99bb042c2de40a75382efcf1eeedc59": {
+      "size": 13516,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/e57664566119065ab8b2b4f6e78dbf58e99bb042c2de40a75382efcf1eeedc59"
+    },
+    "f6817bd1568becba21d1cfc9a962c162f5939c7d7be84f0706a190dd65a578fb": {
+      "size": 184305,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/f6817bd1568becba21d1cfc9a962c162f5939c7d7be84f0706a190dd65a578fb"
+    },
     "0ac892885cf4018f3fa342faed95ef8d91272836fa2cb1b7aaa27de37f2fd278": {
       "size": 236952,
       "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v30-files-001/0ac892885cf4018f3fa342faed95ef8d91272836fa2cb1b7aaa27de37f2fd278"
@@ -4541,53 +4589,145 @@
       "size": 122075,
       "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-android-staging-v26-files-001/ff8de4c5405b3cb73fa3751ad66edd49101b7b5ed5ce56f431cbfc16eca8822a"
     },
-    "a8fd811ece174ac383b881fac5782ef5349e63925f8c7f0211a3459d5502d9f3": {
-      "size": 12886,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/a8fd811ece174ac383b881fac5782ef5349e63925f8c7f0211a3459d5502d9f3"
+    "0aa6a1dcd132d7e67711dd8af29de5191be0fc361613d45d3e23d7c63d3c9c90": {
+      "size": 13056,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/0aa6a1dcd132d7e67711dd8af29de5191be0fc361613d45d3e23d7c63d3c9c90"
     },
-    "e57664566119065ab8b2b4f6e78dbf58e99bb042c2de40a75382efcf1eeedc59": {
-      "size": 13516,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/e57664566119065ab8b2b4f6e78dbf58e99bb042c2de40a75382efcf1eeedc59"
+    "02272ba49079fd14e0a93c59043d33063e95597873b089502e1094a776826f67": {
+      "size": 107984,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/02272ba49079fd14e0a93c59043d33063e95597873b089502e1094a776826f67"
     },
-    "894644f9137f7a2293626505bc3d6d1f5179d4bb41b6bcdae0d76ae53d6c50f3": {
-      "size": 6312,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/894644f9137f7a2293626505bc3d6d1f5179d4bb41b6bcdae0d76ae53d6c50f3"
+    "586ae634fab1680f0213f0931d3cf104fdad91c476fdc6bc97fefd1bb1c77223": {
+      "size": 171934,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/586ae634fab1680f0213f0931d3cf104fdad91c476fdc6bc97fefd1bb1c77223"
     },
-    "7d6c196e224efc26844e19078529ef3d5f504f671c6b4deeba415b968db11f39": {
-      "size": 7488,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/7d6c196e224efc26844e19078529ef3d5f504f671c6b4deeba415b968db11f39"
+    "e1cde6d20ead97a388ef645f05eed58220d832de031f7524274990e341595247": {
+      "size": 291675,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/e1cde6d20ead97a388ef645f05eed58220d832de031f7524274990e341595247"
     },
-    "7ea1eabba67890b03d8c5d891727f3cb65f63968faef0ba9153405e3bb0f4d82": {
-      "size": 237884,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/7ea1eabba67890b03d8c5d891727f3cb65f63968faef0ba9153405e3bb0f4d82"
+    "99f78b21470d79b3f447721378e25c301217a9ecfc6ca0639cc1727454cfbbc3": {
+      "size": 349465,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/99f78b21470d79b3f447721378e25c301217a9ecfc6ca0639cc1727454cfbbc3"
     },
-    "d7282b02b11d95adcc0e28eeecaf8f984f8c10235691c3f33ae050ef6e2e42fe": {
-      "size": 3254057,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/d7282b02b11d95adcc0e28eeecaf8f984f8c10235691c3f33ae050ef6e2e42fe"
+    "ee3b739cc3fe32bb569fda33682e71f8720017990daa97fec6f56613aa05e954": {
+      "size": 13751,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/ee3b739cc3fe32bb569fda33682e71f8720017990daa97fec6f56613aa05e954"
     },
-    "f6817bd1568becba21d1cfc9a962c162f5939c7d7be84f0706a190dd65a578fb": {
-      "size": 184305,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/f6817bd1568becba21d1cfc9a962c162f5939c7d7be84f0706a190dd65a578fb"
+    "69365417fc63044253535c4cdaf8a4f9972de388ebff019617d0c968af25ec6e": {
+      "size": 6403,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/69365417fc63044253535c4cdaf8a4f9972de388ebff019617d0c968af25ec6e"
     },
-    "5d8c699b64bc8426c563aceff6c2f90371d33b96a5c91a026e44aa32e5fb9770": {
-      "size": 38267,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/5d8c699b64bc8426c563aceff6c2f90371d33b96a5c91a026e44aa32e5fb9770"
+    "717762d302133dddce1eeb7689983453ffff54360941adf3786792085478c59a": {
+      "size": 274123,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/717762d302133dddce1eeb7689983453ffff54360941adf3786792085478c59a"
     },
-    "220d0f53c0edf6edc04f28864f4ed6a7feef8fd81a76e55518916f0833a5a109": {
-      "size": 836808,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/220d0f53c0edf6edc04f28864f4ed6a7feef8fd81a76e55518916f0833a5a109"
+    "da39a904d494cc0831de14a699abe62efad0e664aaf835fc8a6b679c8287d58e": {
+      "size": 143900,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/da39a904d494cc0831de14a699abe62efad0e664aaf835fc8a6b679c8287d58e"
     },
-    "6771a7cc905b1a3e7ba078dce5217aca746c8feb4e14ed89bbad875ab95c3671": {
-      "size": 68243,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/6771a7cc905b1a3e7ba078dce5217aca746c8feb4e14ed89bbad875ab95c3671"
+    "2d2ef143ff189578f86c32ff51a48dc7da2c72cf3e4090b8c2c5d3e0206fb801": {
+      "size": 199739,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/2d2ef143ff189578f86c32ff51a48dc7da2c72cf3e4090b8c2c5d3e0206fb801"
     },
-    "3ab6f004f7c74aa8151c9d013a38776ce3e774c710ffba6876217a5780dc2e93": {
-      "size": 11888,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/3ab6f004f7c74aa8151c9d013a38776ce3e774c710ffba6876217a5780dc2e93"
+    "92fa359bc7ff5e4e68fdaa8f7d8bb83f83368ea6d4c2dd7c8cce3e88fcde19a3": {
+      "size": 118217,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/92fa359bc7ff5e4e68fdaa8f7d8bb83f83368ea6d4c2dd7c8cce3e88fcde19a3"
     },
-    "2586878375dc159f965b968469e8b441d156058f3f1004d39a2189e97f05ec0f": {
-      "size": 441154,
-      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v36-files-001/2586878375dc159f965b968469e8b441d156058f3f1004d39a2189e97f05ec0f"
+    "3afa19ab6c902668d789c0bba41b21f24f9ef734bb2d1058e21ed4d37b9b177c": {
+      "size": 7760,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/3afa19ab6c902668d789c0bba41b21f24f9ef734bb2d1058e21ed4d37b9b177c"
+    },
+    "4eb7c8feb013444229c23f38919532aafea107ec4e1f34729247b66ff37ecb67": {
+      "size": 154804,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/4eb7c8feb013444229c23f38919532aafea107ec4e1f34729247b66ff37ecb67"
+    },
+    "e8bf6a1bd1a998d80bf079484ad42d917a5d6b5c3db7ddb3aac52caea477028a": {
+      "size": 122,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/e8bf6a1bd1a998d80bf079484ad42d917a5d6b5c3db7ddb3aac52caea477028a"
+    },
+    "f5a7d7ae4aa91cc765a84de691ff5d622a594e3a465791c0ca73e367c1dd4175": {
+      "size": 140541,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/f5a7d7ae4aa91cc765a84de691ff5d622a594e3a465791c0ca73e367c1dd4175"
+    },
+    "75535f211cc6fb9b876c713f00d997923473d87a16cf5dde19d482e7545b753f": {
+      "size": 103274,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/75535f211cc6fb9b876c713f00d997923473d87a16cf5dde19d482e7545b753f"
+    },
+    "5e7d628a21dd8df31ec972dd77be25227cc0f06024ed3f9e99590efc7deb727c": {
+      "size": 87466,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/5e7d628a21dd8df31ec972dd77be25227cc0f06024ed3f9e99590efc7deb727c"
+    },
+    "32a90af006d4222349aa81355e6bd59a4295311c8d3ae185356e70602d0e382f": {
+      "size": 250586,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/32a90af006d4222349aa81355e6bd59a4295311c8d3ae185356e70602d0e382f"
+    },
+    "e88b38fd9c0599cc1da07a62da343edd88a084d7d24d9d121a7fc14e26235c30": {
+      "size": 27803,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/e88b38fd9c0599cc1da07a62da343edd88a084d7d24d9d121a7fc14e26235c30"
+    },
+    "26c8465eef7eda7e3872d2ff251f1b34a3bb8ba80d199f5dd4bd2c35e3e6986d": {
+      "size": 184288,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/26c8465eef7eda7e3872d2ff251f1b34a3bb8ba80d199f5dd4bd2c35e3e6986d"
+    },
+    "b97343cd6b973ce513be2bf667b965096fcb926bff55704079d459cf39459df5": {
+      "size": 65156,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/b97343cd6b973ce513be2bf667b965096fcb926bff55704079d459cf39459df5"
+    },
+    "15232be7e6b16aa05ec59a3886fc68793c2fc70a185769e5c269084ccbf96b45": {
+      "size": 42351,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/15232be7e6b16aa05ec59a3886fc68793c2fc70a185769e5c269084ccbf96b45"
+    },
+    "c6530059ad0dcd31b158a7997862e4ff959c5f47130e83d749ad2baf4e5d8040": {
+      "size": 115174,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/c6530059ad0dcd31b158a7997862e4ff959c5f47130e83d749ad2baf4e5d8040"
+    },
+    "0435f308b1f18e0e3ca33ef36e7bc327283727953ec04e1c9214c2ea4ad6c17b": {
+      "size": 182197,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/0435f308b1f18e0e3ca33ef36e7bc327283727953ec04e1c9214c2ea4ad6c17b"
+    },
+    "e578cbef55aee5b9628e98e6043d2b1235af2ad1913f626875d1d2707a699fc4": {
+      "size": 83841,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/e578cbef55aee5b9628e98e6043d2b1235af2ad1913f626875d1d2707a699fc4"
+    },
+    "1c4669068b40585ce4de0755c81683c096caea50ef6b921e7459f6cefe32141d": {
+      "size": 61268,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/1c4669068b40585ce4de0755c81683c096caea50ef6b921e7459f6cefe32141d"
+    },
+    "006c1ba4725b1b78983be34f7278891746eac829a347e46eb20a705ef12a93c2": {
+      "size": 42552,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/006c1ba4725b1b78983be34f7278891746eac829a347e46eb20a705ef12a93c2"
+    },
+    "35bc5a0ce35cbdb5ab1628bcc70da881743cdfdd68c1050602b9c403a69a5244": {
+      "size": 180153,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/35bc5a0ce35cbdb5ab1628bcc70da881743cdfdd68c1050602b9c403a69a5244"
+    },
+    "31f54abddbdc7ee95c199f2a0cc9e92c60a90a500fe26baebeca662100849a35": {
+      "size": 95242,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/31f54abddbdc7ee95c199f2a0cc9e92c60a90a500fe26baebeca662100849a35"
+    },
+    "d947c4efa20b81b75b8395e4f330d70df457f89091151fa3bfe78050dda592c5": {
+      "size": 124131,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/d947c4efa20b81b75b8395e4f330d70df457f89091151fa3bfe78050dda592c5"
+    },
+    "1fc12c889c4009eccb210cd42e252957df633298a8f74b2e1cb1ab526679b1b8": {
+      "size": 175814,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/1fc12c889c4009eccb210cd42e252957df633298a8f74b2e1cb1ab526679b1b8"
+    },
+    "82cf7382a282c52cb2747553f961c76ab582f79a7ef77e34103c0fcdfe03c83f": {
+      "size": 519990,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/82cf7382a282c52cb2747553f961c76ab582f79a7ef77e34103c0fcdfe03c83f"
+    },
+    "5c70a36fac5e8631bf1483e663c084087969480770392ec7de308508e59c57de": {
+      "size": 88060,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/5c70a36fac5e8631bf1483e663c084087969480770392ec7de308508e59c57de"
+    },
+    "4ad3b1ac205ff881dd86c7e7a1d5e1e65666c537af90bafea57c790668530375": {
+      "size": 838195,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/4ad3b1ac205ff881dd86c7e7a1d5e1e65666c537af90bafea57c790668530375"
+    },
+    "29d51317f5af984ac4c93f83e65c76a60b13f4effad05f7dad6d016b6042d421": {
+      "size": 12106,
+      "url": "https://github.com/TikusApp/7kilo-ota/releases/download/ota-v37-files-001/29d51317f5af984ac4c93f83e65c76a60b13f4effad05f7dad6d016b6042d421"
     }
   }
 }
