@@ -2557,6 +2557,10 @@
       "size": 122,
       "url": "https://7kilogame.com/ota/files/8e6c23dcdd44d01ae54f9300f8c8c374365a54e8bd6b41dbdb746b96bcb9cf65"
     },
+    "8e8c02e9feca15ec11f52cbc57e968df86616fd5322070fd02becd629cde6b2e": {
+      "size": 194376,
+      "url": "https://7kilogame.com/ota/files/8e8c02e9feca15ec11f52cbc57e968df86616fd5322070fd02becd629cde6b2e"
+    },
     "8ee6a2e8a28af8650bf8b61870724acf64109f9d0077ae0620d441a01168e6ad": {
       "size": 540114,
       "url": "https://7kilogame.com/ota/files/8ee6a2e8a28af8650bf8b61870724acf64109f9d0077ae0620d441a01168e6ad"
@@ -4733,9 +4737,9 @@
       "size": 122075,
       "url": "https://7kilogame.com/ota/files/ff8de4c5405b3cb73fa3751ad66edd49101b7b5ed5ce56f431cbfc16eca8822a"
     },
-    "8e8c02e9feca15ec11f52cbc57e968df86616fd5322070fd02becd629cde6b2e": {
-      "size": 194376,
-      "url": "https://7kilogame.com/ota/files/8e8c02e9feca15ec11f52cbc57e968df86616fd5322070fd02becd629cde6b2e"
+    "f95660fce048ed79f15160f8d2387aaeb5e8fb38ff9fb75e252485034b318977": {
+      "size": 122,
+      "url": "https://7kilogame.com/ota/files/f95660fce048ed79f15160f8d2387aaeb5e8fb38ff9fb75e252485034b318977"
     }
   }
 }
